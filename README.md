@@ -1,10 +1,17 @@
 # Note: This project is unfinished and was created for educational purposes
 
+# Thanks to ThirdParty libraries developers
+* NlohmannJSON
+* MinHook
+* ImGui
+* spdlog
+
 # Realized features
 * Camera zoom
 * ESP (snaplines)
 * No recoil
 * Speedhack
+* Simple logging
 
 # Unfinished features
 * Perfect jump
@@ -12,6 +19,7 @@
 * Box esp
 * Mine esp
 * OOF arrows on near targets
+* Crash reports logging
 
 # Note
 All function offsets are in **Source/Core/Hooks/HooksDefinitions.hpp**.
