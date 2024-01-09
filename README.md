@@ -7,12 +7,12 @@
 * spdlog
 
 # Tools used in the development
-HexRays IDA Pro
-CheatEngine 7.5
-ReClass .NET
-ilSpy
-Il2CppDumper
-de4dot
+* HexRays IDA Pro
+* CheatEngine 7.5
+* ReClass .NET
+* ilSpy
+* Il2CppDumper
+* de4dot
 
 # Realized features
 * Camera zoom
